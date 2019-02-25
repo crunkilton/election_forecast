@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: crunkilton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 543582
+bundleId: 1672909
+url: https://crunkilton.shinyapps.io/shiny/
+when: 1540935584.4048
